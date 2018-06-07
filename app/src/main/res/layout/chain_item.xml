@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:weightSum="10"
+    android:paddingRight="5dp"
+    android:background="#ded8ef">
+
+    <TextView
+        android:id="@+id/channelName"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="Bein 1"
+        android:textSize="24sp"
+        android:textColor="#1a4463"
+        android:textStyle="bold"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:background="#eeefef"
+        android:paddingLeft="5dp"/>
+    <ImageView
+        android:id="@+id/channelImage"
+        android:layout_weight="8"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:src="@drawable/beinmax2"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center_vertical"/>
+
+</LinearLayout>

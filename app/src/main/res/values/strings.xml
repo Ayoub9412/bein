@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bein</string>
+    <string name="next">التالي</string>
+    <string name="intro">مرحبا في التطبيق الحصري لمشاهدة مباريات كأس العالم مجانا</string>
+    <string name="chooseServer">إخرت أحد السيرفرات</string>
+    <string name="s1">السيرفر 1</string>
+    <string name="s2">السيرفر 2</string>
+    <string name="s3">السيرفر 3</string>
+    <string name="loading">تحميل...</string>
+    <string name="RateMessage">عليك تفعيل التطبيق بخمس نجوم لمشاهدة المباريات</string>
+    <string name="admobid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admobBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admobInterstital">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admobPublisherId">pub-0123456789012345</string>
+</resources>
